@@ -1,0 +1,27 @@
+PIZZA ORDERING SYSTEM TOOL - ERPNEXT
+MODULES:
+ADMINISTRATOR MODULE 
+This module is used to create usernames and passwords by admin. Admin can 
+view all the information about the user or delete or edit the all details about the 
+manager and customer.
+CUSTOMER MODULE 
+• This Functionalities provided
+• View product’s list
+• Register
+• Place orders.
+MANAGER MODULE
+• This Functionalities provided
+• Create product categories and functionalities,
+• Edit / delete product categories and descriptions,
+• View and manage orders and sales report.
+MENU MODULE:
+• This module deals with the food menu placed in a form view
+• Also the food the customer wished to buy
+• Dishes along with offers and prices are placed here
+PAYMENT MODULE
+• Payment method
+• Net value
+• Total orders placed
+DELIVERY MODULE
+• Mode of Transportation
+• Warehouse management
